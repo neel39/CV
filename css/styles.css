@@ -1,0 +1,201 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    color: #66BFBF;
+    font-size: 4.62rem;    
+    margin: 50px auto 0;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    color: #66BFBF;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #66BFBF;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EAF6F6;
+    border-width: 5px;
+    width: 5%;
+}
+p{
+   line-height: 2;
+}
+
+.first-cont{
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    
+
+}
+
+.middle-container{
+    padding-top: 100px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    line-height: 2;
+    height: 100px;
+    padding-top: 25px;
+}
+
+.profile{
+    margin: auto;
+    text-color: #40514E;
+    width: 40%;
+    padding-bottom: 30px;
+}
+
+.skills{
+    padding-top: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    height: 200px;
+    line-height: 2;
+    margin: 70px auto;
+    text-align: left;
+}
+
+.tech-skills{
+	position: relative;
+    left: 180px;
+    bottom: 125px;
+    width: 30%;
+}
+
+.tech-skills1{
+	position: relative;
+    left: 400px;
+    bottom: 237px;
+    width: 50%;
+}
+
+.prof-skills{
+	position: relative;
+    bottom: 125px;
+    left: 180px;
+    width: 30%
+}
+.prof-skills1{
+	position: relative;
+    left: 400px;
+    bottom: 237px;
+    width: 50%
+}
+
+.code-img{
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.team-img{
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.top-cloud{
+   position: absolute;
+   right: 300px;
+   top: 50px;
+}
+
+.bottom-cloud{
+   position: absolute;
+   left:300px;
+   bottom:300px;
+}
+.contact-me{
+    margin: 50px auto;
+    width: 40%;
+}
+
+.contact-button {
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   height: 21px;
+   line-height: 21px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   width: 139px;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 8px;
+   background-color: #11999E;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 15px;
+}
+.contact-button:active{
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+.hand-gif{
+    width: 25%;
+    border-radius: 70px;
+}
+
+.footer-link{
+    margin: 10px;
+   
+}
+
+.in-img{
+    border-radius: 7px;
+    width: 2%;
+}
+.in-img:hover{
+    background-color: #0F52BA;
+}
+.in-img:active{
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+.twit-img{
+    border-radius: 7px;
+    width: 2%;
+}
+.twit-img:hover{
+    background-color: #0F52BA;
+}
+.twit-img:active{
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+.copy-right{
+    color: white;
+    font-size: 10px;
+    padding-top: 25px;
+}
